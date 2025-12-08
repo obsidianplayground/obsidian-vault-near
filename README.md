@@ -1,5 +1,5 @@
 # NEAR OBSIDIAN VAULT
-an obsidian vault for obsidian near plugin
+an obsidian vault for testing the obsidian near plugin
 
 
 ---
