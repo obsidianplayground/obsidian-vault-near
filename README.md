@@ -3,18 +3,29 @@ an obsidian vault for testing the obsidian near plugin
 
 ---
 
-Download the plugin
+DOWNLOAD THIS VAULT
+```sh
+git clone https://github.com/obsidianplayground/obsidian-vault-near
+```
+
+
+DOWNLOAD THE PLUGIN
 ```sh
 cd path/to/vault
 mkdir .obsidian/plugins
 cd .obsidian/plugins
 
-git clone hhttps://github.com/obsidianplayground/obsidian-plugin-near
+git clone https://github.com/obsidianplayground/obsidian-plugin-near
 cd obsidian-sample-plugin
 bun i
 bun run build
 ```
 
+🔗 https://github.com/obsidianplayground/obsidian-vault-near
+<br/>
+🔗 https://github.com/obsidianplayground/obsidian-plugin-near
+<br/>
+🔗 https://github.com/obsidianplayground
 
 
 ---
