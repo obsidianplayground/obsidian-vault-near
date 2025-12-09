@@ -9,25 +9,14 @@ git clone https://github.com/obsidianplayground/obsidian-vault-near
 ```
 
 
-#### DOWNLOAD THE PLUGIN
-```sh
-cd path/to/vault
-mkdir .obsidian/plugins
-cd .obsidian/plugins
-
-git clone https://github.com/obsidianplayground/obsidian-plugin-near
-cd .obsidian/plugins/obsidian-plugin-near
-bun i
-bun run build
-```
-
 ---
 
-#### ABOUT THIS PLUGIN
+#### ABOUT THE PLUGIN
 the plugin adds near transaction support, and can be used via the command palette.
 to use it must set up a markdown file with transaction properties.
 
-see [GUIDE](GUIDE/README.md)
+SEE GUIDE
+ - [NEAR PLUGIN](FASTINTEAR/README.md) ⚠️ FASTINTEAR ran into a log in problem.
 
 
 ---
@@ -35,7 +24,7 @@ see [GUIDE](GUIDE/README.md)
 
 🔗 https://github.com/obsidianplayground/obsidian-vault-near
 <br/>
-🔗 https://github.com/obsidianplayground/obsidian-plugin-near
+🔗 ⚠️  https://github.com/obsidianplayground/obsidian-plugin-near
 <br/>
 🔗 https://github.com/obsidianplayground
 <br/>

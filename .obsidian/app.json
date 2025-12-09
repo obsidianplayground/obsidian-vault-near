@@ -2,5 +2,6 @@
   "showInlineTitle": false,
   "newFileLocation": "current",
   "useMarkdownLinks": true,
-  "newLinkFormat": "relative"
+  "newLinkFormat": "relative",
+  "alwaysUpdateLinks": true
 }
