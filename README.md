@@ -16,7 +16,7 @@ mkdir .obsidian/plugins
 cd .obsidian/plugins
 
 git clone https://github.com/obsidianplayground/obsidian-plugin-near
-cd obsidian-sample-plugin
+cd .obsidian/plugins/obsidian-plugin-near
 bun i
 bun run build
 ```
