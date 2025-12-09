@@ -1,5 +1,5 @@
 # NEAR OBSIDIAN PLUGIN
-
+a plugin for obsidian that adds near blockchain interaction for function calls and transactions
 
 
 
