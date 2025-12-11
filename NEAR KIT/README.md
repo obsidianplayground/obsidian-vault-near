@@ -38,10 +38,12 @@ SIGN OUT
 VIEW METHOD
 - for view only methods
 - does not require sign in
+- inserts view results at cursor position
 
 CALL METHOD
 - for function call transactions
 - requires sign in with account id and private key
+- inserts tx results at cursor position
 
 ---
 
