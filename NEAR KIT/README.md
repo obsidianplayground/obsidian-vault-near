@@ -30,6 +30,20 @@ TOGGLE NETWORK (mainnet/testnet)
 
 SIGN IN
 - sign in so you can do transactions
+- saves info to local storage
+
+SIGN OUT
+- clears plug created local storage items
+
+VIEW METHOD
+- for view only methods
+- does not require sign in
+
+CALL METHOD
+- for function call transactions
+- requires sign in with account id and private key
+
+---
 
 
 
