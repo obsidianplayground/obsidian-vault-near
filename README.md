@@ -16,7 +16,8 @@ the plugin adds near transaction support, and can be used via the command palett
 to use it must set up a markdown file with transaction properties.
 
 SEE GUIDE
- - [NEAR PLUGIN](FASTINTEAR/README.md) ⚠️ FASTINTEAR ran into a log in problem.
+ - [NEAR PLUGIN](FASTINTEAR/README.md) ⚠️ FASTINTEAR ran into a log-in problem.
+ - [NEAR KIT PLUGIN](NEAR%20KIT/README.md)
 
 
 ---
