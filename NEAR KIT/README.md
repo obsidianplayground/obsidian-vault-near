@@ -5,7 +5,9 @@ a plugin for obsidian that adds near blockchain interaction for function views, 
 > THIS NEAR PLUGIN SAVES PRIVATE KEYS TO OBSIDIAN BROWSER LOCAL STORAGE. IT WILL NOT BE SYNCED WITH YOUR VAULT. IT IS ACCESSIBLE TO ALL PLUGINS
 
 ---
+
 ##### DOWNLOAD THE PLUGIN
+
 ```sh
 cd path/to/vault
 mkdir .obsidian/plugins
@@ -38,7 +40,8 @@ SIGN OUT
 VIEW METHOD
 - for view only methods
 - does not require sign in
-- inserts view results at cursor position
+- gets contractId, methodName, and args from file properties
+- inserts view results at bottom of the file
 
 CALL METHOD
 - for function call transactions
