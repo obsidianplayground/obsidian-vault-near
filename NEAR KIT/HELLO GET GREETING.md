@@ -1,9 +1,10 @@
 ---
 action: view
-contractId: hello.sleet.near
+contractId: hello.sleet.testnet
 methodName: get_greeting
 network:
 args:
+options:
 ---
 try the NEAR KIT: VIEW METHOD command
 
@@ -58,4 +59,12 @@ methodName
 #### 12/11/2025, 12:03:15 AM
 ```json
 "Hello, World!"
+```
+#### 12/11/2025, 8:02:39 PM
+```json
+"Hello, from typed NEAR-KIT!"
+```
+#### 12/11/2025, 8:13:19 PM
+```json
+"Hello, from NEAR-KIT OBSIDIAN!"
 ```

@@ -14,4 +14,6 @@ ABOUT BASIC TEMPLATE
 - accountId id for the smart contract you wish to interact with
 **methodName** (required)
 - the method of the smart contract
+**options** (optional)
+- additional options
 
