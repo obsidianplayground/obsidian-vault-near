@@ -1,0 +1,16 @@
+views:
+  - type: table
+    name: Table
+  - type: table
+    name: NEAR KIT
+    filters:
+      and:
+        - file.inFolder("NEAR KIT")
+    order:
+      - file.name
+      - action
+      - args
+      - contractId
+      - methodName
+      - options
+      - network

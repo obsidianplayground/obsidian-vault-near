@@ -1,6 +1,8 @@
 # NEAR KIT OBSIDIAN PLUGIN
 a plugin for obsidian that adds near blockchain interaction for function views, calls and transactions
 
+🔗 https://github.com/obsidianplayground/obsidian-plugin-near-kit
+
 > [!NOTE] SECURITY
 > THIS NEAR PLUGIN SAVES PRIVATE KEYS TO OBSIDIAN BROWSER LOCAL STORAGE. IT WILL NOT BE SYNCED WITH YOUR VAULT. IT IS ACCESSIBLE TO ALL PLUGINS
 
