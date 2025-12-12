@@ -8,6 +8,7 @@ an obsidian vault for testing the obsidian near plugin
 git clone https://github.com/obsidianplayground/obsidian-vault-near
 ```
 
+and open in obsidian!
 
 ---
 
