@@ -11,3 +11,4 @@ Call the web4_setStaticUrl method on the min web4 contract.
 feel free to change the contractId to your account id and the args to your url.
 
 =====================
+
